@@ -158,15 +158,15 @@ export default function Home() {
           <h1 className="text-center text-4xl font-semibold text-AquaSenseBlue mb-6">Annual App Subscription</h1>
           <div className="flex gap-12 justify-center mb-6">
             <div className="w-64 h-72 flex justify-center items-center flex-col rounded-3xl shadow-xl">
-              <img src="./AppFeatures.png" alt="Checking Icon" className="w-28"/>
+              <img src="./AppFeatures.png" alt="App Features Icon" className="w-28"/>
               <p>App Features</p>
             </div>
             <div className="w-64 h-72 flex justify-center items-center flex-col rounded-3xl shadow-xl">
-              <img src="./CloudStorage.png" alt="Testing Icon" className="w-28"/>
+              <img src="./CloudStorage.png" alt="Cloud Storage Icon" className="w-28"/>
               <p>Cloud Storage</p>
             </div>
             <div className="w-64 h-72 flex justify-center items-center flex-col rounded-3xl shadow-xl">
-              <img src="./Updates.png" alt="Calibration Icon" className="w-24"/>
+              <img src="./Updates.png" alt="Updates Icon" className="w-24"/>
               <p>Updates</p>
             </div>
           </div>
